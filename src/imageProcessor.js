@@ -1,5 +1,5 @@
 export async function processImage() {
-  const imageInput = document.getElementById("image-input");
+  const imageInput = document.getElementById("file-upload");
   const file = await waitForFileSelection(imageInput);
   const dataUrl = await readFileAsDataURL(file);
   const img = await loadImage(dataUrl);
