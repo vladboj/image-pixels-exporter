@@ -18,6 +18,6 @@ This app uses **HTML Canvas** to render your image on the webpage in an invisibl
 
 ## Usage ##
 
-- Access the [website](vladboj.github.io/image-pixels-exporter/)
+- Access the [website](https://vladboj.github.io/image-pixels-exporter/)
 - Upload the image
 - Wait for the automatic download
